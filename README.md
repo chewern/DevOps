@@ -11,3 +11,4 @@
 8. A new broswer tab will open up, which is the server running an instance of the backend image. Copy this new tab's address and plug it into the frontend javascript code. 
 
 To be continued: automating github actions with docker
+on push
