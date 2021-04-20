@@ -3,7 +3,7 @@ async function getData(){
       method: "GET",
       redirect: "follow",
     };
-    let result = await fetch("http://localhost:2021/baojia2", requestOptions);
+    let result = await fetch("http://ip172-18-0-32-c1vdcc7njsv000afvg1g-3000.direct.labs.play-with-docker.com/baojia2", requestOptions);
     let data = result.json();
     return data;
 }
