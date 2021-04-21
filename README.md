@@ -13,4 +13,4 @@
 ## Automating Github Actions with Docker
 1.  Link up your Docker Hub account with Github.
 2.  Follow the steps in https://docs.docker.com/ci-cd/github-actions/.
-3.  Amend the 
+3.  Amend the yml
