@@ -10,5 +10,7 @@
 7. In the same page near the top, you will see a button "OPEN PORT". Besides this button is a hyperlink "3000". Click on this 3000 hyperlink.
 8. A new broswer tab will open up, which is the server running an instance of the backend image. Copy this new tab's address and plug it into the frontend javascript code. 
 
-To be continued: automating github actions with docker
-on push
+## Automating Github Actions with Docker
+1.  Link up your Docker Hub account with Github.
+2.  Follow the steps in https://docs.docker.com/ci-cd/github-actions/.
+3.  Amend the 
