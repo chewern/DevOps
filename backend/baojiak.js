@@ -18,7 +18,7 @@ router.get("/baojia2", (request, response) => {
     );
 });
 
-router.get("/", (request, response) => {
+/* router.get("/", (request, response) => {
     database.connection.query(
         `select * from baojia_2`,
         (errors, results) => {
@@ -30,6 +30,6 @@ router.get("/", (request, response) => {
             }
         }
     );
-});
+}); */
 
 module.exports = { router };
